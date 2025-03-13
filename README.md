@@ -26,7 +26,7 @@ The Expense Tracker is a lightweight Python application designed to help users r
 
 2. Run the application:
    ```bash
-   python main.py
+   python Expense Tracker.py
    ```
 
 ### Basic Usage
